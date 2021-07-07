@@ -28,8 +28,8 @@ class Program
 
 //Sample Input 0
 
-//7
-//5 4 10 9 21 4 10
+//5
+//6 9 8 4 3
 //Sample Output 0
 
-//5 9 21
+//12
